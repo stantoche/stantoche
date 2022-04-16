@@ -6,9 +6,9 @@ I am open to carry out more projects for individuals, businesses, organisations,
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a global standard School Management System.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Frontend frameworks
 - 👯 I’m looking to collaborate on building a FinTech solution
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Cryptocurrency
 - 💬 Ask me about HTML, CSS, JavaScript and Python
 - 📫 How to reach me: **[stantoche website](https://www.stantoche.com)**
 - 😄 Pronouns: He/His/Him
