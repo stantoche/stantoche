@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a global standard School Management System.
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on building a FinTech solution
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about HTML, CSS, JavaScript and Python
+- 📫 How to reach me: **[stantoche website](https://www.stantoche.com)**
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Traveling to space will be fun for me!
 
